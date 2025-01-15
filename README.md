@@ -1,7 +1,7 @@
-##Food-Nutrition and Metabolomics Data Analysis
+## Food-Nutrition and Metabolomics Data Analysis
 This project demonstrates the application of machine learning to analyze and model the relationship between food nutrition data and metabolomics data, using Logistic Regression for classification. The pipeline handles missing data, performs feature engineering, scales the data, and tunes the model using Grid Search with cross-validation.
 
-##Project Structure
+## Project Structure
 FOOD-DATA-GROUP1.csv: Contains food nutrition data (features related to food).
 MetXBioDB_Transformations.csv: Contains metabolomics data (features related to metabolites).
 Python script that processes data, creates features, and trains a machine learning model.
@@ -11,7 +11,7 @@ pandas
 scikit-learn
 To install required dependencies, run:
 
-##Dataset Description
+## Dataset Description
 Food Nutrition Data: Contains features related to food items such as Sodium, Protein, Calories, etc.
 Metabolomics Data: Contains features related to metabolites found in the human body. This includes various biochemical transformations related to the human microbiome and its relationship with food intake.
 Steps in the Project
